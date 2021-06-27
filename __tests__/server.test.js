@@ -12,7 +12,7 @@ describe("API working?", () => {
     const response = await request.get("/old");
     expect(response.status).toEqual(500);
   });
-  it("handles correct routes", async () => {
+  it("handles correct requests", async () => {
     const response = await request.get("/");
     expect(response.status).toEqual(200);
   });

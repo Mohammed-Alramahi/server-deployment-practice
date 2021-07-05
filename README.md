@@ -12,8 +12,14 @@ Actual time needed to complete: 4 hours
 
 ---
 
-[dev branch](https://ramahi-server-deploy-dev.herokuapp.com/)
+## UML
 
-[main branch](https://ramahi-server-deploy-dev.herokuapp.com/)
+![UML](uml-lab-01.PNG)
 
-[github repo](https://github.com/Mohammed-Alramahi/server-deployment-practice/pull/1)
+## Links
+
+https://ramahi-server-deploy-dev.herokuapp.com/
+
+https://ramahi-server-deploy-dev.herokuapp.com/
+
+https://github.com/Mohammed-Alramahi/server-deployment-practice/pull/1
